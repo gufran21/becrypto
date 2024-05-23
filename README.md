@@ -35,7 +35,7 @@ To get a local copy up and running, follow these steps:
 
 ### Clone the Repository
 ```bash
-git clone https://github.com/yourusername/crypto-tracker.git
+git clone https://github.com/gufran21/becrypto.git
 cd becrypto
 ```
 
